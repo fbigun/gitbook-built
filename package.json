@@ -1,0 +1,29 @@
+{
+  "name": "gitbook-built",
+  "version": "1.0.0",
+  "description": "Build gitbook book tools.",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "gitbook-cli": "^2.3.2"
+  },
+  "scripts": {
+    "test": "echo succ",
+    "built": "gitbook serve"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fbigun/gitbook-built.git"
+  },
+  "keywords": [
+    "gitbook-cli",
+    "built",
+    "tools"
+  ],
+  "author": "fbigun",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fbigun/gitbook-built/issues"
+  },
+  "homepage": "https://github.com/fbigun/gitbook-built#readme"
+}
